@@ -1,0 +1,24 @@
+.outputStyle span {
+  margin: 10px;
+}
+
+.outputStyle {
+  float: right;
+  margin: 5px;
+  
+
+}
+
+.outputStyle > .paraStyle {
+  background: rgba(0, 255, 255, 0.5);
+  padding: 10px;
+  border: 1px red solid;
+  font-size: 20px;
+
+}
+
+.displayBox {
+  margin: 20px;
+  font-size: 20px;
+  color: grey;
+}
